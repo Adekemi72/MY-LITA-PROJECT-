@@ -1,14 +1,17 @@
 # MY-LITA-PROJECT-
-Here is my  LITA CAPSTONE PROJECT 
+
 This project comprises of two  datasets, one is a sales business while the other one is a subscription business and its customers. 
 I will be explaining the two one after the other.
+
+there are not images yet because I couldn't find the screenshots on my system 😔
+
+lets go 😊
 
 ---
 ## THE SALS BUSINESS DATASETS
 ---
 Project Overview
-
-In the fast-paced world of sales, knowing your top performers, understanding regional strengths, and tracking overall growth are crucial to success. This project dives deep into a dataset capturing orders with details such as Order ID, Customer ID, Product, Region, Order Date, Quantity, and Unit Price. By analyzing this data, we uncover key insights about top products, regional dynamics, and customer behavior that can drive business growth.
+In sales, knowing your top performers, understanding regional strengths, and tracking overall growth are crucial to success. This project dives deep into a dataset capturing orders with details such as Order ID, Customer ID, Product, Region, Order Date, Quantity, and Unit Price. By analyzing this data, we uncover key insights about top products, regional dynamics, and customer behavior that can drive business growth.
 
 Objectives
 
@@ -51,7 +54,7 @@ Identifying products with no sales helps in product lifecycle management. These 
 
 ---
 
-💻 Technology Stack and Skills
+💻 Technology Skills or Tools
 
 SQL: To perform data cleaning, transformations, and calculations.
 
@@ -59,3 +62,57 @@ Data Analysis: Summarizing metrics, calculating total revenues, finding top perf
 
 Visualization: excel and power bi 
 is used for the visualisation 
+
+
+---
+#SUBSCRIPTION BUSINESS 
+
+In this project, we explore a dataset that captures the journey of a subscription-based business and its customers. Through this data, we can uncover crucial insights into customer preferences, regional trends, revenue growth, and retention rates, all of which tell a compelling story about the business's performance and its potential for strategic improvement.
+
+1. Customer Reach and Regional Trends
+
+One of the initial steps is understanding the geographic distribution of customers. By analyzing the Region and Customer ID fields, we reveal where the customer base is most concentrated. This allows us to answer questions like:
+
+- Which regions are driving the most revenue?
+
+- Are there regions where customer acquisition strategies could be improved?
+
+
+By visualizing customer distribution and revenue by region, we create a clear map of where our efforts are most effective and where potential opportunities lie.
+
+2. Subscription Type Popularity
+
+Next, we dive into Subscription Type to see which options resonate most with customers. Do more customers prefer premium options, or is there a higher volume of basic subscriptions? Here, we can uncover:
+
+- Which subscription types generate the most revenue?
+
+- Are certain subscription types more popular in specific regions?
+
+
+3. Customer Retention and Churn Analysis
+
+The Subscription Start and End dates, along with the Canceled status, offer valuable insights into customer retention. By calculating subscription duration and churn rates, we identify patterns in customer loyalty. We analyze:
+
+Average subscription duration per customer, region, and subscription type.
+
+Trends in cancellations and factors that might influence them (e.g., shorter subscriptions for basic tiers).
+
+Patterns that reveal which customers are more likely to renew versus cancel.
+
+
+These insights inform retention strategies by pinpointing areas where intervention (like customer support or promotional offers) might reduce churn.
+
+4. Revenue Growth and Customer Lifetime Value (CLTV)
+
+Revenue data allows us to track the financial growth of the business. By analyzing revenue per customer and per subscription type, we get a clearer view of which customers are most valuable. This part of the analysis covers:
+
+The total revenue trend over time to see how the business is growing.
+
+Revenue by subscription type to identify high-value tiers.
+
+Revenue analysis drives decisions on budget allocations, marketing strategies, and customer retention initiatives, providing a holistic view of business health.
+
+
+...
+Conclusion: 
+Through this project, we transform raw data into actionable insights, providing a roadmap for strategic growth. The findings equip the business with a clearer understanding of its customers, empowering it to refine its offerings, optimize revenue, and enhance customer satisfaction. This story demonstrates the power of data-driven decision-making, revealing hidden opportunities and strengthening the foundation for long-term success.
