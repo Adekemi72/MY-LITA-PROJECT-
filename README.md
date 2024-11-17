@@ -8,7 +8,7 @@ there are not images yet because I couldn't find the screenshots on my system ðŸ
 lets go ðŸ˜Š
 
 ---
-## THE SALS BUSINESS DATASETS
+## THE SALES DATABASE
 ---
 Project Overview
 In sales, knowing your top performers, understanding regional strengths, and tracking overall growth are crucial to success. This project dives deep into a dataset capturing orders with details such as Order ID, Customer ID, Product, Region, Order Date, Quantity, and Unit Price. By analyzing this data, we uncover key insights about top products, regional dynamics, and customer behavior that can drive business growth.
@@ -62,10 +62,17 @@ Data Analysis: Summarizing metrics, calculating total revenues, finding top perf
 
 Visualization: excel and power bi 
 is used for the visualisation 
+## VISUALIZATION
 
+
+![Capture7](https://github.com/user-attachments/assets/326ed869-53b5-43b1-bf49-2968e2d0855a)
+
+![Capture6](https://github.com/user-attachments/assets/36f5a067-6952-4976-9861-ebbe47c25a65)
+
+![Capture5](https://github.com/user-attachments/assets/730d892f-777e-498d-9237-c863e37457c0)
 
 ---
-#SUBSCRIPTION BUSINESS 
+## CUSTOMERS DATA
 
 In this project, we explore a dataset that captures the journey of a subscription-based business and its customers. Through this data, we can uncover crucial insights into customer preferences, regional trends, revenue growth, and retention rates, all of which tell a compelling story about the business's performance and its potential for strategic improvement.
 
@@ -112,7 +119,11 @@ Revenue by subscription type to identify high-value tiers.
 
 Revenue analysis drives decisions on budget allocations, marketing strategies, and customer retention initiatives, providing a holistic view of business health.
 
+## VISUALIZATION
+![Capture2](https://github.com/user-attachments/assets/77f2d834-2326-40e8-8937-23651c04056f)
+
 
 ...
+
 Conclusion: 
 Through this project, we transform raw data into actionable insights, providing a roadmap for strategic growth. The findings equip the business with a clearer understanding of its customers, empowering it to refine its offerings, optimize revenue, and enhance customer satisfaction. This story demonstrates the power of data-driven decision-making, revealing hidden opportunities and strengthening the foundation for long-term success.
